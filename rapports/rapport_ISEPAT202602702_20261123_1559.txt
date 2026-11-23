@@ -1,0 +1,31 @@
+======================================
+       RAPPORT D'ANALYSE DES LOGS
+======================================
+Date : Mon Nov 23 15:59:12     2026
+Utilisateur et machine : Foutiyou@DESKTOP-QJDKJN3
+Matricule : ISEPAT202602702
+Fichier analysé : logs/access.log
+
+1. EMPREINTE SHA256
+77b78cdff329be10bff2cb1aee37928b5288f279e6e1f112e1bb85f8128feb2e *logs/access.log
+
+2. NOMBRE DE REQUÊTES PAR FAMILLE HTTP
+2xx : 1743
+3xx : 0
+4xx : 226
+5xx : 31
+
+3. TOP 3 DES ENDPOINTS
+    394 /api/auth/login
+    278 /api/paiements
+    278 /api/notes
+
+4. ADRESSE IP SUSPECTE
+106 197.149.67.98
+
+5. TEMPS MOYEN DES RÉPONSES 200
+162.8 ms
+
+======================================
+          FIN DU RAPPORT
+======================================
